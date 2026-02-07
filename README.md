@@ -25,6 +25,12 @@ Use the official method for a quick, ready-to-read manual. Use the source method
 
 The main page from which you can access the manual is the **index**. It contains all references to pages and child blocks. You can easily find what you are looking for by chapter, or use the **search function** at the top left of the interface. You can also filter for pages or blocks by using the "/" symbol in the search. To make the manual easier and more comfortable to consult, there are many links to term references, which are mainly located on the **glossary** page. If you want to read the manual from beginning to end, or simply move forward or back between pages, you can use the **page links** at the top or bottom of the manual pages. If you want to access references and content on the page more easily, you can **hover** your mouse over a reference and wait a few seconds to see a preview of the page, reference, or block. You can also **left-click a link while holding Shift**, this will open the selected page or block to the right at the same time.
 
+## Project Lumina
+
+**Project Lumina** is the name of the narrative universe behind which we are developing multiple pieces of content and products. Project Lumina is an open project for everyone. Anyone can take part, provided they give credit to the creators, to the project itself, and, where applicable, to any products already developed, can make fan-made content and release it as part of the Project Lumina universe. The wiki is freely available at this link: https://melancholy-dev.github.io/Project-Lumina-Wiki/
+
+**Seals of Lumina** is an official Project Lumina product, consequently, the events, species, universe structure, and the content within the manual are connected to Project Lumina and may appear again in other Project Lumina products.
+
 ## Project status and releases
 
 Some parts may be missing or still need to be implemented, others are complete or currently under review and playtesting.
