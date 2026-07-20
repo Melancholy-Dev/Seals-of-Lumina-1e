@@ -7,7 +7,7 @@ https://discord.gg/qR6hWDKmfN
 
 ## Project Lumina
 
-**Project Lumina** is the name of the narrative universe behind which we are developing multiple pieces of content and products. Project Lumina is an open project for everyone. Anyone can take part, provided they give credit to the creators, to the project itself, and, where applicable, to any products already developed, can make fan-made content and release it as part of the Project Lumina universe. The wiki is freely available at this link: https://melancholy-dev.github.io/Project-Lumina-Wiki/
+**Project Lumina** is the narrative universe behind which we are developing multiple contents and products. Project Lumina is an open project for everyone. Anyone can take part making fan-made content and release it as part of the Project Lumina universe, provided they give credit to the creators, to the project itself, and, where applicable, to any products already developed. The wiki is freely available at this link: https://melancholy-dev.github.io/Project-Lumina-Wiki/
 
 **Seals of Lumina** is an official Project Lumina product, consequently, the events, species, universe structure, and the content within the manual are connected to Project Lumina and may appear again in other Project Lumina products.
 
