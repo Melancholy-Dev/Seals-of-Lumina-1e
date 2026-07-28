@@ -2,13 +2,13 @@
 
 This project exists thanks to the contributions of the following people:
 
-- **Melancholy**: Main maintainer, creation of game mechanics and game design, lore writing, concept design and creation, Italian and English translations, rulebook writing, implementation of ideas and other team members' work, organization of the repository, social media, and everything else.
-- **Zaffy**: Illustrations and lore.
-- **Clanvictory**: Lore, game mechanics and concepts.
-- **Ciuffo**: Lore, game mechanics and concepts.
-- **Franz**: Concept design and creation.
+- **Melancholy**: Lead Developer, Lead Designer, Main Maintainer, Localization (IT/EN).
+- **Zaffy**: Main Graphic Designer, Narrative Designer.
+- **Ciuffo**: Second Graphic Designer, Narrative Designer, Game Mechanics Designer, Concept Designer.
+- **Clanvy**: Narrative Designer, Game Mechanics Designer, Concept Designer.
+- **Franz**: Concept Designer, Localization (IT/EN).
 
-The campaign manual **[slot to insert name in the future]** was created by Zaffy and Clanvictory, and assembled by Melancholy.
+The campaign manual **[slot to insert name in the future]** was designed by Ciuffo and Clanvictory, with the help of others Narrative Designers, and assembled by Melancholy.
 
 Special thanks to our playtesters: [slot to insert names in the future]
 
