@@ -70,7 +70,7 @@ We believe AI tools are innovative productivity tools that should be used critic
 
 Copyright © 2023 Project Lumina - Coetus Interactive
 
-Copyright © 2025 Seals of Lumina- Coetus Interactive
+Copyright © 2024 Seals of Lumina- Coetus Interactive
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
